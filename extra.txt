@@ -1,0 +1,63 @@
+<div class="content">
+<h2>Feedback </h2>
+<p>  sffdshdhbd</p>
+
+</div>
+<div class="container">
+<div class="containerinfo">
+<div class="box">
+<div class="icon"><i class="fa fa-map-marker" aria-hidden="true"></i></div>
+<div class="text">
+<H3>Address</H3>
+<P> hjfhgfhgfhgfhfhf </p>
+
+</div>
+
+
+</div>
+
+<div class="box">
+<div class="icon"><i class="fa fa-phone" aria-hidden="true"></i></div>
+<div class="text">
+<H3>pHONE</H3>
+<P> 01789------ </p>
+
+</div>
+
+</div>
+
+<div class="box">
+<div class="icon"><i class="fa fa-envelope-o" aria-hidden="true"></i></div>
+<div class="text">
+<H3>E-mail</H3>
+<P> eeea@gmail.com </p>
+
+</div>
+
+</div>
+
+
+</div>
+<div class="contactForm">
+<form action="C:\xampp\htdocs\mail.php" method="post">
+<h2>Send message-box</h2>
+<div class="inputBox">
+<input type="text" name="name" required="required">
+<span>Full Name</span>
+</div>
+<div class="inputBox">
+<input type="email" name="email" required="required">
+<span>E-mail</span>
+</div>
+
+<div class="inputBox">
+<textarea name="message" id="message" cols="30" rows="10" required="required"></textarea> 
+<span>Type your message...</span>
+</div>
+<div class="inputBox">
+<input type="submit" name="" value="send">
+
+</div>
+</form>
+</div>
+</div>
